@@ -1,0 +1,20 @@
+{
+  "data": [
+  {
+  "name":"morpheus",
+  "job":"leader"
+  },
+
+  {
+  "name":"morph"
+  },
+
+  {
+  "job":"netahlo"
+  },
+    {
+      "name": "test",
+      "job": "programator"
+    }
+]
+}
